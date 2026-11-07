@@ -1,1 +1,9 @@
 node_modules
+
+.vscode/settings.json
+
+.temp/
+.agents/settings.json
+.agents/settings.local.json
+.claude/
+CLAUDE.md
